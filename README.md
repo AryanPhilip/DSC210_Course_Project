@@ -23,7 +23,7 @@ Before running the notebook, make sure to have the following Python libraries in
 
 ## Results
 
-The project focuses on Extractive Text Summarization using two techniques: Latent Semantic Analysis (LSA) and BERT. These methods are implemented in the context of the DSC 212 course, Numerical Linear Algebra for Data Science.
+The project focuses on Extractive Text Summarization using two techniques: Latent Semantic Analysis (LSA) and BERT. These methods are implemented in the context of the DSC 210 course, Numerical Linear Algebra for Data Science.
 
 Feel free to explore the notebook to understand the implementation details and insights gained through Extractive Summarization using LSA and BERT. Disclaimer this is just the inference notebook, the full code will be available however, it requires a GPU to run and is trained on a different dataset.
 
