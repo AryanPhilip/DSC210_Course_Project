@@ -10,7 +10,6 @@
 Before running the notebook, make sure to have the following Python libraries installed in your environment:
 
 - [scikit-learn](https://scikit-learn.org/)
-- [tqdm](https://github.com/tqdm/tqdm)
 - [nltk](https://www.nltk.org/)
 - [transformers](https://huggingface.co/transformers) (for BERT)
 - [ExtractiveSummarizer](https://pypi.org/project/bert-extractive-summarizer/)
@@ -19,7 +18,8 @@ Before running the notebook, make sure to have the following Python libraries in
 ### Running the Notebook
 
 1. Open `BERT_Extractive_Summarizer.ipynb`.
-2. Run all the cells of the notebook.
+2. Open `LSA_Extractive_Summarizer-2.ipynb`.
+3. Run all the cells of the notebook.
 
 ## Results
 
