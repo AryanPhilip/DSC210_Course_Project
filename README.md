@@ -2,7 +2,7 @@
 
 ## Course Information
 
-- **Course:** DSC 212 A: Numerical Linear Algebra for Data Science
+- **Course:** DSC 210 A: Numerical Linear Algebra for Data Science
 - **Instructor:** Dr. Tsui-wei Weng
 - **Group Members:** Aryan Philip, Asher Jacob, Saloni Reddy, Shivani Patnaik
 ## Instructions
